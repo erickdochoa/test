@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Cunia';
+    src: url('Cunia/Cunia.ttf') format('truetype');
+}
+html {
+    background: linear-gradient(#29395E,#1E2A45) no-repeat center center fixed;
+}
+
+h1, p {
+    font-family: Cunia;
+    color: white;
+    text-align: center;
+}
+
+p {
+    /* font-family:  */
+}
